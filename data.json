@@ -26,7 +26,7 @@
   {"name":"Be Social",
     "desc":"Meet researchers from a variety of backgrounds.",
     "fa_icon": "fa-wechat"}],
-    "details": {"costs":"Virtual event hosted by Cornell University, Free admission to Tri-I, Cornell Tech, Cornell University students."},
+    "details": {"costs":"Virtual event hosted by Weill Cornell Graduate School & Memorial Sloan Kettering."},
     "schedule_background_img": "../img/ny_2.jpg",
     "schedule":  [
                     {"date": "Friday, December 11",
@@ -47,13 +47,14 @@
                     "times": [{"time": "9-10AM", "event": "Unconference"},
                               {"time": "10-11AM", "event": "Guest Speaker TBD"},
                               {"time": "11-12AM", "event": "Open Hacking"},
-                              {"time": "1-5PM", "event": "Open Hacking"},
-                              {"time": "5-6PM", "event": "Project Presentations"}]}
+                              {"time": "1-3PM", "event": "Open Hacking"},
+                              {"time": "3-4PM", "event": "Project Presentations"}]}
                             ],
     "location_logo": "",
-    "location_name": "Virtual Event Hosted by Weill Cornell Medicine Graduate School",
+    "location_name": "Virtual Event Hosted by Weill Cornell Medicine Graduate School and Memorial Sloan Kettering Cancer Center",
     "location_url":"https://weill.cornell.edu/",
-    "google_maps_link":"https://goo.gl/maps/iqobfWM52pUzP7Yr9",
-    "sponsors": [{"name": "Weill Cornell Medicine", "url": "https://weill.cornell.edu/", "logo":"https://weill.cornell.edu/sites/default/files/wcm_2line_cobrand_rgb.png"}],
-    "organizers": ["Xihe Xie", "Emily Olafson", "Anjali Rajadhyaksha"]
+    "google_maps_link":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3021.8685827851587!2d-73.95708568413727!3d40.7649150793263!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c258c38cc266d7%3A0x4cd0cb3b0077e54d!2sWeill%20Cornell%20Medicine!5e0!3m2!1sen!2sus!4v1604421008498!5m2!1sen!2sus",
+    "sponsors": [{"name": "Weill Cornell Medicine", "url": "https://weill.cornell.edu/", "logo":"https://weill.cornell.edu/sites/default/files/wcm_2line_cobrand_rgb.png"},
+                 {"name": "Memorial Sloan Kettering Cancer Center", "url": "https://www.mskcc.org/", "logo": "https://cbio.mskcc.org/altan-bonnetlab/Site_MSKCC/_Media/mskcc_logo_3d_grey_med_hr.jpeg"}],
+    "organizers": ["Xihe Xie", "Emily Olafson", "Elvisha Dhamala", "Anjali Rajadhyaksha"]
 }
