@@ -1,11 +1,11 @@
 {
   "title": "Brainhack New York 2020",
-  "location": "New York, USA",
+  "location": "New York, USA (Virtual)",
   "dates": "December 11-13, 2020",
   "year": "2020",
   "background_img": "../img/ny_1.jpg",
   "color_theme": {"background": "#3b2e26", "font": "#fff", "link_color": "#e24401"},
-  "global_brainhack_organizers": ["Cameron Craddock"],
+  "global_brainhack_organizers": ["Damion Demeter", "Daniel Marguiles", "Peer Herholz", "Pierre Bellec", "Cameron Craddock", "Sofie Van Den Bossche", "Anibal Solon Heinsfeld", "Isil Poyraz Bilgin", "Jon Haitz Legarreta Gorroño", "Samuel Guay", "Daniel Alcalá", "Eneko Uruñuela", "Alberto Furgoni", "Stefano Moia"],
   "registration_link":"https://forms.gle/J7umYNw5iFDFonw68",
   "mattermost_link":"https://mattermost.brainhack.org/",
   "project_submit_link":"https://brainhack.org/global2020/projects/",
@@ -26,7 +26,7 @@
   {"name":"Be Social",
     "desc":"Meet researchers from a variety of backgrounds.",
     "fa_icon": "fa-wechat"}],
-    "details": {"costs":"Virtual event hosted by Weill Cornell Graduate School & Memorial Sloan Kettering."},
+    "details": {"costs":"Open for ALL students, Post-Docs, and affiliates of Tri-I, Cornell Tech, and Cornell Ithaca"},
     "schedule_background_img": "../img/ny_2.jpg",
     "schedule":  [
                     {"date": "Friday, December 11",
@@ -56,5 +56,5 @@
     "google_maps_link":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3021.8685827851587!2d-73.95708568413727!3d40.7649150793263!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c258c38cc266d7%3A0x4cd0cb3b0077e54d!2sWeill%20Cornell%20Medicine!5e0!3m2!1sen!2sus!4v1604421008498!5m2!1sen!2sus",
     "sponsors": [{"name": "Weill Cornell Medicine", "url": "https://weill.cornell.edu/", "logo":"https://callen-lorde.org/graphics/2019/01/Weill-Cornell.png"},
                  {"name": "Memorial Sloan Kettering Cancer Center", "url": "https://www.mskcc.org/", "logo": "https://cbio.mskcc.org/altan-bonnetlab/Site_MSKCC/_Media/mskcc_logo_3d_grey_med_hr.jpeg"}],
-    "organizers": ["Xihe Xie", "Emily Olafson", "Elvisha Dhamala", "Anjali Rajadhyaksha"]
+    "organizers": ["Xihe Xie", "Emily Olafson", "Elvisha Dhamala", "Careen Foord", "Anjali Rajadhyaksha"]
 }

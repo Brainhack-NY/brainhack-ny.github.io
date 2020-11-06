@@ -80,7 +80,7 @@
 
       <br>
 			<a href="{{registration_link}}" target="_blank" class="btn btn-dark btn-lg top5 left5">Register Now</a>
-      <a href="{{slack_link}}" target="_blank" class="btn btn-dark btn-lg top5 left5">Join Brainhack on Mattermost</a>
+      <a href="{{mattermost_link}}" target="_blank" class="btn btn-dark btn-lg top5 left5">Join Brainhack on Mattermost</a>
       <a href="{{project_submit_link}}" target="_blank" class="btn btn-dark btn-lg top5 left5">Submit a Project</a><br><br>
 
       <br><br><br>
@@ -148,16 +148,18 @@
             <div class="row text-center">
                  <div class="col-xl-8 col-xl-offset-2 col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1 col-xs-12 col-xs-offset-0">
 					<p><h3><a href="{{registration_link}}" target="_blank">Registration for the {{title}} is now open!</a></h3></p>
-		    <p>The {{title}} is an official satellite event of the <a href="http://events.brainhack.org/global{{year}}/" target="_blank">International Global Brainhack {{year}}</a> that is organized by
-            {% for org in global_brainhack_organizers %}
-            {{org}}
-            {% endfor %}
-           . The goal of the hackathon is to bring together researchers with disparate backgrounds to collaborate on open science projects in neuroimaging.</p>
+		    <p>The {{title}} is an official satellite event of the <a href="http://brainhack.org/global{{year}}/" target="_blank">International Global Brainhack {{year}}</a> that is organized by
+            <ul class="list-unstyled">
+                     {% for org in global_brainhack_organizers %} 
+                        <li><h4>{{org}}</h4></li>
+                        {% endfor %}
+            </ul>
+            The goal of the hackathon is to bring together researchers with disparate backgrounds to collaborate on open science projects in neuroimaging.</p>
 					<h4>Dates: {{dates}}</h4>
 					<h4>Costs: {{details.costs}}</h4>
 					<h4>Location: <a href="#map"> {{location}}</a></h4>
 					<p>Participants are encouraged to post project ideas to <a href="http://www.brainhack.org" target="_blank">www.brainhack.org</a> and to submit a report describing their project to the <a href="http://www.brainhack.org/proceedings">{{year}} Brainhack Proceedings</a> that will be published by <a href="http://gigasciencejournal.com/">Gigascience</a> after the event.</p>
-					<p>Please join <a href="{{slack_link}}" target="_blank">the Brainhack Slack project</a> for updated information on the developing Hackathon content and to contribute your own ideas.</p>
+					<p>Please join <a href="{{mattermost_link}}" target="_blank">the Brainhack mattermost project</a> for updated information on the developing Hackathon content and to contribute your own ideas.</p>
                    </div>
 			</div>
 		</div>
@@ -230,7 +232,7 @@
         <div class="container-fluid">
             <div class="row no-gutter">
 				<div class="col-lg-12 text-center">
-				    <br><h3 class="text-color-blue"><strong>The {{title}} is generously sponsored By:</strong></h3><br><br>
+				    <br><h3 class="text-color-blue"><strong>The {{title}} is hosted by:</strong></h3><br><br>
 			    </div>
 			</div>
 {% for sponsor in sponsors %}
@@ -260,6 +262,8 @@
                     <h3><strong>For more information:</strong></h3>
                     <i class="fa fa-envelope-o fa-fw"></i>
                     <a href="mailto:info@brainhack.org">info@brainhack.org</a>
+                    <i class="fa fa-envelope-o fa-fw"></i>
+                    <a href="mailto:brainhack.ny@gmail.com">brainhack.ny@gmail.com</a>
                     <br>
                     <br>
                     <h3><strong>Organizers:</strong>
