@@ -34,9 +34,9 @@
                               {"time": "9:30-10AM", "event": "What is Brainhack | Dr. Cameron Craddock"},
                               {"time": "10-11AM", "event": "Project Pitches"},
                               {"time": "11-12AM", "event": "Open Hacking | Tutorial: Working with Git & GitHub"},
-                              {"time": "1-2PM", "event": "Guest Lecture | Dr. Amy Kuceyeski"}, 
+                              {"time": "1-2PM", "event": "Introduction to Machine Learning | Dr. Amy Kuceyeski"}, 
                               {"time": "2-5PM", "event": "Open Hacking"},
-                              {"time": "5PM-", "event": "Sociliazing"}]},
+                              {"time": "5PM-", "event": "Socializing: Brainhack Themed Trivia Night!"}]},
                     {"date": "Saturday, December 12",
                     "times": [{"time": "9-10AM", "event": "Unconference"},
                               {"time": "10-12AM", "event": "Open Hacking | Tutorial: Python environments and basics"},
@@ -46,7 +46,7 @@
                     {"date": "Sunday, December 13",
                     "times": [{"time": "9-10AM", "event": "Unconference"},
                               {"time": "10-11AM", "event": "Guest Speaker TBD"},
-                              {"time": "11-12AM", "event": "Open Hacking"},
+                              {"time": "11-12AM", "event": "Open Hacking | Tutorial: Reproducible Practices with DataLad"},
                               {"time": "1-3PM", "event": "Open Hacking"},
                               {"time": "3-4PM", "event": "Project Presentations"}]}
                             ],
@@ -56,5 +56,5 @@
     "google_maps_link":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3021.8685827851587!2d-73.95708568413727!3d40.7649150793263!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c258c38cc266d7%3A0x4cd0cb3b0077e54d!2sWeill%20Cornell%20Medicine!5e0!3m2!1sen!2sus!4v1604421008498!5m2!1sen!2sus",
     "sponsors": [{"name": "Weill Cornell Medicine", "url": "https://weill.cornell.edu/", "logo":"https://callen-lorde.org/graphics/2019/01/Weill-Cornell.png"},
                  {"name": "Memorial Sloan Kettering Cancer Center", "url": "https://www.mskcc.org/", "logo": "https://cbio.mskcc.org/altan-bonnetlab/Site_MSKCC/_Media/mskcc_logo_3d_grey_med_hr.jpeg"}],
-    "organizers": ["Xihe Xie", "Emily Olafson", "Elvisha Dhamala", "Careen Foord", "Anjali Rajadhyaksha"]
+    "organizers": ["Xihe Xie", "Emily Olafson", "Elvisha Dhamala", "Careen Foord", "Dr. Anjali Rajadhyaksha"]
 }
