@@ -45,7 +45,7 @@
                               {"time": "5PM-", "event": "Sociliazing"}]},
                     {"date": "Sunday, December 13",
                     "times": [{"time": "9-10AM", "event": "Unconference"},
-                              {"time": "10-11AM", "event": "Guest Speaker TBD"},
+                              {"time": "10-11AM", "event": "Open Hacking | Tutorial: BISWeb - Web Based Imaging Tool"},
                               {"time": "11-12AM", "event": "Open Hacking | Tutorial: Reproducible Practices with DataLad"},
                               {"time": "1-3PM", "event": "Open Hacking"},
                               {"time": "3-4PM", "event": "Project Presentations"}]}
