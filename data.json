@@ -40,7 +40,6 @@
                     {"date": "Saturday, December 12",
                     "times": [{"time": "9-10AM", "event": "Unconference | NeuroView Presentation"},
                               {"time": "10-12AM", "event": "Open Hacking | Tutorial: Python environments and basics"},
-                              {"time": "1-2PM", "event": "Guest Lecture | Dr. Hagen Tilgner"},
                               {"time": "2-3PM", "event": "Demo by Tim Gilboy: Code Refactoring with Sourcery.ai"},
                               {"time": "2-5PM", "event": "Open Hacking"},
                               {"time": "5PM-", "event": "Socializing"}]},
