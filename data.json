@@ -49,7 +49,7 @@
                               {"time": "10-11AM", "event": "Open Hacking | Tutorial: BISWeb - Web Based Imaging Tool"},
                               {"time": "11-12AM", "event": "Open Hacking | Intro: Reproducible Practices with DataLad"},
                               {"time": "1-3:30PM", "event": "Open Hacking"},
-                              {"time": "2:30-3:30PM", "event": "Demo: Data Visualization with Plotly | Sebastian Urchs"},
+                              {"time": "2:30-3:30PM", "event": "Demo: Plotly Express & Dash | Sebastian Urchs"},
                               {"time": "3:30-4PM", "event": "Project Presentations & Wrap Up"}]}
                             ],
     "location_logo": "",
